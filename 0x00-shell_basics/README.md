@@ -1,1 +1,1 @@
-display current dir including hidden
+display numerically
