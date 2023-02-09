@@ -1,1 +1,1 @@
-delete the dir
+change working dir to previous
