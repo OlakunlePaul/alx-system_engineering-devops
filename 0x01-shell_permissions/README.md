@@ -1,1 +1,1 @@
-print current user
+empty file
